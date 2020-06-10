@@ -29,10 +29,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 162,
+    "uniqCompNum": 163,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/visionsuperhero2-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
@@ -70,7 +70,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -130,8 +130,8 @@
               "size": 250
             }
           },
-          "title": "From Zero to SuperHero<br><br>Vision Superhero, way creative than Mayor de Blasio's Vision Zero, way effeciant than Governor Cuomo's MTA plans.",
-          "text": "Vision Superhero, a comprehensive plan come up with more than <b>76 </b>innovative project-ideas to solve New York's most vexing problems.\n<br>It also plan for the after-corona City-and-State austerity, by increasing productivity and creatively changing the structure of  City-and-State spending to soothe the econimic crisis imapct after the coronavirus pandemic.&nbsp;<br>",
+          "title": "From a Zero to a Superhero<br><br>Vision Superhero, way creative than Mayor de Blasio's Vision Zero, way effeciant than Governor Cuomo's MTA plans.",
+          "text": "Vision Superhero, a comprehensive plan come up with more than <b>76 </b>innovative project-ideas to solve New York's most vexing problems.\n<br>It also plan for New York's after-corona austerity, by increasing productivity and creatively changing the structure of  City-and-State spending to soothe the econimic crisis imapct after the coronavirus pandemic.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -162,14 +162,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#28324e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Intro.<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DOT / NYPD Traffic&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYC Transit</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">TLC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DDC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DSNY/Park&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYPD/FDNY&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">nycGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Ally’s Law&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">About<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -187,13 +187,13 @@
               "font-size": "10px"
             },
             ".navbar-toggler": {
-              "color": "#28324e"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#28324e",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -207,16 +207,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#28324e",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -237,11 +237,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/visionsuperhero2.png",
+              "src": "@PROJECT_PATH@/assets/images/visionsuperhero3.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://beyondtheboxinc.com",
-              "title": ""
+              "link": "https://visionsuperhero.com/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -308,7 +309,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/new-logo-white12-1-265x151.png",
+              "src": "@PROJECT_PATH@/assets/images/new-vsnyc.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -418,7 +419,7 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#c5d1f2"
           },
           "title": "At a glance:",
           "meta": "<span style=\"font-style: normal;\">To QUICKLY understand what kind of solution we're talking about!\n<br>Compare the difference between the two images below.</span>",
@@ -442,7 +443,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -464,7 +465,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/old999300.png",
+              "src": "@PROJECT_PATH@/assets/images/01.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -548,7 +549,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -621,7 +622,7 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#c5d1f2"
           },
           "title": "Talking about the whole package which includes solutions that work together, let's see an example on how 3 different project-ideas will solve one of New York's most vexing problems, the delivery.",
           "meta": "<span style=\"font-style: normal;\">Another <b>simple </b>project-idea will make you\n<br>QUICKLY understand what kind of solution we're talking about! \n<br>Again! Compare the difference between the two images below.&nbsp;</span><br>",
@@ -662,7 +663,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -715,7 +716,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -787,7 +788,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/big334-1920x1079.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -819,7 +820,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -830,7 +831,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/old999300-1.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -841,7 +842,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/old999300citystarter-2.png",
+              "src": "@PROJECT_PATH@/assets/images/3.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -852,7 +853,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/old999300delivery-1.png",
+              "src": "@PROJECT_PATH@/assets/images/4.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -941,7 +942,7 @@
             "showMeta": false,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#c5d1f2"
           },
           "title": "See more solutions, navigate by 'targeted' departement!",
           "meta": "By John Smith posted July 20, 2016",
@@ -965,7 +966,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1078,7 +1079,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1191,9 +1192,9 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#c5d1f2"
           },
-          "title": "Most of our webpages are under construction! Please be aware that I’m …\r",
+          "title": "Most of our webpages are under construction! Please be aware that I’m …\n",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1244,7 +1245,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "7",
-            "bgColor": "#efefef"
+            "bgColor": "#c5d1f2"
           },
           "text": "<blockquote><p><span style=\"font-style: normal;\"><b>My apologies [Read Me].doc\n</b></span></p><p><span style=\"font-style: normal;\"><b>1. Most of our websites are under construction! only Adam, the founder does it all!\n</b></span></p><p><span style=\"font-style: normal;\"><b>2. For time consuming reasons, currently our website is a non mobile friendly - only desktop view.\n</b></span></p><p><span style=\"font-style: normal;\"><b>3. Our apologies for any grammatical mistakes, again! only Adam bit off more than one can chew.\n</b></span></p><p><span style=\"font-style: normal;\"><b>4. Once we get our first VC funding, all websites of Beyond The Box R&amp;D, Inc will take a max-professional step - I mean they'll go from-I-to-we, from about the founder to about the company itself, especially after the potential rebranding to GenioPolicy, Inc.</b></span></p></blockquote>",
           "_tags": [
@@ -1579,7 +1580,7 @@
             "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#c5d1f2"
           },
           "title": "For a better New York, we're also planning to reach out to:",
           "meta": "<b>\"Most likely after seed-funding\"</b>",
@@ -1603,7 +1604,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1727,7 +1728,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1853,7 +1854,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1892,7 +1893,7 @@
             "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c5d1f2"
           },
           "title": "City, State &amp; Fed. Elected-Officials, who’ll reach out to:",
           "meta": "<b>Especially for supporting our Ally's Law, which considered as a breakthrough that changes the way people commute, not only in New York, but across the country and sequentially around the world.</b><br>",
@@ -1916,7 +1917,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2025,7 +2026,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "7",
-            "bgColor": "#efefef"
+            "bgColor": "#c5d1f2"
           },
           "text": "<blockquote>We're fully aware that dealing with legislatives is risky, but politicians know when to care and when to not. Our solutions are so good in a way they impose themselves, our proposals address issues that communities get to complain about at every-chance. In such a case, a great solution is like a “political life-saver” for politicians.</blockquote>",
           "_tags": [
@@ -2035,309 +2036,6 @@
           "_anchor": "content2-47",
           "_styles": {
             "DIV": {
-              "color": "#0a1e50"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#0a1e50"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#c5d1f2"
-          },
-          "title": "Why we're late?",
-          "meta": "What is the story behind it?",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-49"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c5d1f2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/9.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/10.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-4c"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#c5d1f2"
-          },
-          "text": "<blockquote>Most of our solutions were ideas written on napkins back in 2016/2017, as an outsider who becomes an insider in a very short time, I see what's missing and creatively, also cost-effectively I fill the gap! I developed back then a comprehensive and a sustainable plan, that I call 'Revive Yellow', the plan has come up with key-solutions in favoring all, riders, city, medallion owners, uber, lyft ... it was a win-win for all. The plan also has developed strategies to generate taxes to the city, revalue taxi medallions, advocate drivers and give the rideshare business a fair opportunity to grow.\r</blockquote><blockquote>I got myself ready with a good-looking business plan to knock doors of NYC's top yellow-business moguls, which ended up with being hired at the second door I knocked on - Victor Weingarten, Gotham Yellow LLC owner - one of NYC's largest taxi fleets back then. The boss loved the plan, he temporarily offered me a job as a developer and operations supervisor, while getting the City's law-makers support for the Plan.\r</blockquote><blockquote>Few months later, exactly in October 2017, I got shocked while checking my daily news, I saw articles about Mr. Rodríguez - city councilman and Chairman of the Council Transportation Committee, who “claimed” on a media conference that he came up with an idea to save the taxi industry, in running two cabs per one medallion - which later on was a city council bill trying to be passed. The idea itself favors only medallion owners, but my entire plan - which was intellectually protected 10 months before Rodríguez's media conference - my plan favors all, it solved many vexing problems like rideshare and taxis bad odor, also how 2-for-1 medallion deal will get uber and taxis in/out of the city during rush hours and where they’ll park? … so many industry-saving solutions were suggested by an IP protected piece of document.\r</blockquote><blockquote>Since that shocking moment, I quit my job and went into a deep depression - which I just have beaten recently.\r</blockquote><blockquote>Now, I have a fighter-spirit to bring Vision Superhero’s solutions to life, and sue the councilman over the copyright infringement he committed in 2017.\r</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-4d",
-          "_styles": {
-            "DIV": {
-              "color": "#0a1e50"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c5d1f2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nypost.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/am-ny.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/am-ny.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"https://nypost.com/2017/10/17/councilman-proposes-2-for-1-medallion-deal-to-save-taxi-industry/\" target=\"_blank\" class=\"text-success\">https://nypost.com/2017/10/17/councilman-proposes-2-for-1-medallion-deal-to-save-taxi-industry/</a>",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<a href=\"https://www.amny.com/transit/taxi-medallion-bill-1.14514119/\" target=\"_blank\" class=\"text-black\">https://www.amny.com/transit/taxi-medallion-bill-1.14514119/</a>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://nypost.com/2017/10/17/councilman-proposes-2-for-1-medallion-deal-to-save-taxi-industry/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.amny.com/transit/taxi-medallion-bill-1.14514119/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-4g"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c5d1f2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Thank you CBJC in advance.",
-          "text": "This website does not show on search engines - it's not publicly  published. And only invited visitors know about it.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://drive.google.com/open?id=1L5pu8OrHJpFkhWEHaPIUvu6DBLYZurir\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hi, CBJC - please check google drive files HERE.</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-4h",
-          "_styles": {
-            "H3": {
-              "color": "#0d47ec",
-              "font-size": "18px"
-            },
-            "H2": {
               "color": "#0a1e50"
             }
           }
@@ -2432,7 +2130,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#c5d1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2615,15 +2313,15 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "&nbsp;Other websites",
-          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Beyond The Box R&amp;D, Inc",
+          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Vision Superhero, Inc ",
           "text2": "+ 1 (347) 383-4942\n<br>\"Please! Only text for a call back\"",
           "text3": "106 W 32nd St - [The Yard]\n<br>New York, NY 10001",
-          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">btbrdinc@gmail.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.btbrdinc.com</b></a></li><li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.visionsuperhero.com</b></a></li>",
-          "text6": "<strong>Locations!</strong><br><b>Meetings Location\n<br></b>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br><b>Everyday! Location\n<br></b>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br><b>R&amp;D Location/Lab!\n<br></b>Beyond The Box R&amp;D, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
+          "text4": "contact@visionsuperhero.com&nbsp;<br>",
+          "text5": "<li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</span></li><li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\"><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</a></span><br></li>",
+          "text6": "<strong>Locations!</strong><br>[ Meetings Location ]<br>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br>[ Everyday! Location ]<br>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br>[ R&amp;D Location/Lab! ]<br>Vision Superhero, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "adambenzakar@gmail.com",
+            "action": "visionsuperheronyc@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -2662,6 +2360,9 @@
               "font-size": "14px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         }
@@ -2683,14 +2384,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#28324e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Intro.<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DOT / NYPD Traffic&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYC Transit</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">TLC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DDC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DSNY/Park&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYPD/FDNY&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">nycGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Ally’s Law&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">About<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -2758,12 +2459,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/visionsuperhero2.png",
+              "src": "@PROJECT_PATH@/assets/images/visionsuperhero3.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://beyondtheboxinc.com",
+              "link": "https://visionsuperhero.com/",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3677,12 +3378,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "&nbsp;Other websites",
-          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Beyond The Box R&amp;D, Inc",
+          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Vision Superhero, Inc ",
           "text2": "+ 1 (347) 383-4942\n<br>\"Please! Only text for a call back\"",
           "text3": "106 W 32nd St - [The Yard]\n<br>New York, NY 10001",
-          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">btbrdinc@gmail.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.btbrdinc.com</b></a></li><li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.visionsuperhero.com</b></a></li>",
-          "text6": "<strong>Locations!</strong><br><b>Meetings Location\n<br></b>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br><b>Everyday! Location\n<br></b>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br><b>R&amp;D Location/Lab!\n<br></b>Beyond The Box R&amp;D, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
+          "text4": "contact@visionsuperhero.com&nbsp;<br>",
+          "text5": "<li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</span></li><li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\"><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</a></span><br></li>",
+          "text6": "<strong>Locations!</strong><br>[ Meetings Location ]<br>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br>[ Everyday! Location ]<br>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br>[ R&amp;D Location/Lab! ]<br>Vision Superhero, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
           "form": {
             "title": "MESSAGE",
             "action": "adambenzakar@gmail.com",
@@ -3724,6 +3425,9 @@
               "font-size": "14px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         }
@@ -3745,14 +3449,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#28324e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Intro.<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DOT / NYPD Traffic&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYC Transit</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">TLC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DDC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DSNY/Park&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYPD/FDNY&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">nycGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Ally’s Law&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">About<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -3820,11 +3524,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/visionsuperhero2.png",
+              "src": "@PROJECT_PATH@/assets/images/visionsuperhero3.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://beyondtheboxinc.com",
-              "title": ""
+              "link": "https://visionsuperhero.com/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4313,12 +4018,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "&nbsp;Other websites",
-          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Beyond The Box R&amp;D, Inc",
+          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Vision Superhero, Inc ",
           "text2": "+ 1 (347) 383-4942\n<br>\"Please! Only text for a call back\"",
           "text3": "106 W 32nd St - [The Yard]\n<br>New York, NY 10001",
-          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">btbrdinc@gmail.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.btbrdinc.com</b></a></li><li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.visionsuperhero.com</b></a></li>",
-          "text6": "<strong>Locations!</strong><br><b>Meetings Location\n<br></b>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br><b>Everyday! Location\n<br></b>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br><b>R&amp;D Location/Lab!\n<br></b>Beyond The Box R&amp;D, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
+          "text4": "contact@visionsuperhero.com&nbsp;<br>",
+          "text5": "<li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</span></li><li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\"><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</a></span><br></li>",
+          "text6": "<strong>Locations!</strong><br>[ Meetings Location ]<br>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br>[ Everyday! Location ]<br>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br>[ R&amp;D Location/Lab! ]<br>Vision Superhero, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
           "form": {
             "title": "MESSAGE",
             "action": "adambenzakar@gmail.com",
@@ -4360,6 +4065,9 @@
               "font-size": "14px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         }
@@ -4384,14 +4092,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#28324e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Intro.<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DOT / NYPD Traffic&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYC Transit</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">TLC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DDC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">DSNY/Park&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">NYPD/FDNY&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">nycGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">Ally’s Law&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://visionsuperhero.com\" aria-expanded=\"false\">About<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -4459,12 +4167,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/visionsuperhero2.png",
+              "src": "@PROJECT_PATH@/assets/images/visionsuperhero3.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://beyondtheboxinc.com",
+              "link": "https://visionsuperhero.com/",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4924,12 +4632,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "&nbsp;Other websites",
-          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Beyond The Box R&amp;D, Inc",
+          "text1": "© 2020-2021&nbsp;<br>All Rights Reserved by<br>Vision Superhero, Inc ",
           "text2": "+ 1 (347) 383-4942\n<br>\"Please! Only text for a call back\"",
           "text3": "106 W 32nd St - [The Yard]\n<br>New York, NY 10001",
-          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">btbrdinc@gmail.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.btbrdinc.com</b></a></li><li><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\"><b>www.visionsuperhero.com</b></a></li>",
-          "text6": "<strong>Locations!</strong><br><b>Meetings Location\n<br></b>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br><b>Everyday! Location\n<br></b>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br><b>R&amp;D Location/Lab!\n<br></b>Beyond The Box R&amp;D, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
+          "text4": "contact@visionsuperhero.com&nbsp;<br>",
+          "text5": "<li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</span></li><li><span style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\"><a class=\"text-white\" href=\"https://btbrdinc.com\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">www.visionsuperhero.com</a></span><br></li>",
+          "text6": "<strong>Locations!</strong><br>[ Meetings Location ]<br>Beyond The Box R&amp;D, Inc\n<br>106 W 32nd St - [The Yard]\n<br>New York, NY 10001\n<br>[For meetings, please email us in advance to book a meeting room]\n<br>\n<br>[ Everyday! Location ]<br>Queens Public Library at Lefrak City\n<br>98-30 57th Ave, Corona, NY 11368\n<br>\n<br>[ R&amp;D Location/Lab! ]<br>Vision Superhero, Inc\n<br>@ Tech Incubator [Queens College]\n<br>65-30 Kissena Blvd. CEP Hall 2\n<br>Queens, NY 11367<br>",
           "form": {
             "title": "MESSAGE",
             "action": "adambenzakar@gmail.com",
@@ -4971,6 +4679,9 @@
               "font-size": "14px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         }

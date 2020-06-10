@@ -494,15 +494,15 @@ section.form .container {
   font-size: 10px;
 }
 #ext_menu-0 .navbar-toggler {
-  color: #28324e;
+  color: #ffffff;
 }
 #ext_menu-0 .close-icon::before,
 #ext_menu-0 .close-icon::after {
-  background-color: #28324e;
+  background-color: #ffffff;
 }
 #ext_menu-0 .link,
 #ext_menu-0 .dropdown-item {
-  color: #28324e;
+  color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-0 .link {
@@ -520,22 +520,22 @@ section.form .container {
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #ext_menu-0 .nav-dropdown-sm .link:focus,
 #ext_menu-0 .nav-dropdown-sm .link:hover,
 #ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #ext_menu-0 .navbar,
 #ext_menu-0 .nav-dropdown-sm,
 #ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #ext_menu-0 .bg-color.transparent .link {
-  color: #28324e;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-0 .bg-color.transparent.opened .link {
@@ -747,26 +747,6 @@ section.form .container {
 #content2-47 DIV {
   color: #0a1e50;
 }
-#header3-49 .mbr-section-title,
-#header3-49 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-49 .mbr-section-title {
-  color: #0a1e50;
-}
-#header3-49 .mbr-section-subtitle {
-  color: #000000;
-}
-#content2-4d DIV {
-  color: #0a1e50;
-}
-#msg-box1-4h H3 {
-  color: #0d47ec;
-  font-size: 18px;
-}
-#msg-box1-4h H2 {
-  color: #0a1e50;
-}
 #msg-box8-11 .mbr-section-title,
 #msg-box8-11 p {
   color: #fff;
@@ -802,6 +782,9 @@ section.form .container {
 #contacts3-3a .btn {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
+}
+#contacts3-3a SPAN {
+  color: #ffffff;
 }
 
 
@@ -995,6 +978,9 @@ section.form .container {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
 }
+#contacts3-3a SPAN {
+  color: #ffffff;
+}
 
 
 
@@ -1127,6 +1113,9 @@ section.form .container {
 #contacts3-3a .btn {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
+}
+#contacts3-3a SPAN {
+  color: #ffffff;
 }
 
 
@@ -1285,4 +1274,7 @@ section.form .container {
 #contacts3-3a .btn {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
+}
+#contacts3-3a SPAN {
+  color: #ffffff;
 }
