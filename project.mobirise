@@ -97,7 +97,7 @@
             "showArrow": true,
             "imageSize": "30",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/big334-1920x1079.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/rtrt-1998x1644.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -105,8 +105,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayColor": "#0a1e50",
             "overlayOpacity": 0.3
           },
           "media": {
